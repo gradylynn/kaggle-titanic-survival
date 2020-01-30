@@ -1,0 +1,7 @@
+# Let's ignore some stuff likeaboss.
+
+# MAC nonsence
+.DS_Store
+
+# I won't store the actual competition submission in the repo
+submission.csv
